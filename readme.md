@@ -1,4 +1,4 @@
-# Wwebsite Toko Pertanian
+# Website Toko Pertanian
 Website toko pertanian dengan menggunakan framework CodeIgniter ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
 ## Admin Account
