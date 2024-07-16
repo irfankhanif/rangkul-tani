@@ -1,5 +1,5 @@
-# Penjualan Hasil Pertanian
-Website penjualan hasil pertanian dengan menggunakan framework CodeIgniter ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
+# Wwebsite Toko Pertanian
+Website toko pertanian dengan menggunakan framework CodeIgniter ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
 ## Admin Account
 | Level |  Username | Password |
