@@ -18,3 +18,4 @@ To access admin page, add url /admin. Example http://localhost/ksucatalog/auth
 - CodeIgniter
 - Database MySQL
 - XAMPP / PHP 5.6
+# rangkul-tani
